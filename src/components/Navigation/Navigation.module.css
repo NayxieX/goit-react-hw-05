@@ -4,26 +4,19 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 12px;
-    background-color: #020202;
+    background-color: #8d858523;
     color: #eee;
-    background: linear-gradient(
-      163deg,
-      transparent,
-      transparent,
-      #01d2fc,
-      #4e0303
-    );
+
     padding: 12px;
     margin-bottom: 20px;
-    border: 1px solid #01d2fc;
+    border: 1px solid #000000;
     padding: 12px;
     border-radius: 10px;
-    border: 1px solid #017ea1;
+    border: 1px solid #000000;
   
-    box-shadow: 0px -0.5px 0px #a1e9f8, 0px -1.5px 0px #79d0fb;
+
     border-width: 1px 0px 1px 2px;
-    background: linear-gradient(90deg, #e0edfa, #020202);
-    color: #48595e;
+
   }
   .link {
     letter-spacing: 3px;
